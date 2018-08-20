@@ -3,7 +3,7 @@ function forLoop(array) {
     if (i > 0) {
       array.push("I am " + i + " strange loops.");
     }
-    else if (i === 0) {
+    else if (i === 1) {
       array.push("I am " + i + " strange loop.");
     }
   }
