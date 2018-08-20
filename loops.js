@@ -13,6 +13,7 @@ function whileLoop(num) {
   return 'done';
 }
 
+incrementVariable()
 function doWhileLoop(array) {
   
 }
